@@ -110,6 +110,8 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text('Guan lam new branch'),
+            Text('Hello lam'),
+
           ],
         ),
       ),
